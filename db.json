@@ -2,19 +2,23 @@
   "items": [
     {
       "id": "item00001",
-      "itemName": "SERRANO / セラーノ",
-      "sellingPrice": "8800",
-      "makerName": "ONITSUKA TIGER",
-      "colorName": "ブラック × ホワイト",
-      "sizeName": "23cm"
-    },
-    {
-      "id": "item00001",
-      "itemName": "SERRANO / セラーノ",
-      "sellingPrice": "8800",
-      "makerName": "ONITSUKA TIGER",
-      "colorName": "ブラック × ホワイト",
-      "sizeName": "24cm"
+      "detail": [
+          {
+            "itemName": "SERRANO / セラーノ",
+            "sellingPrice": "8800",
+            "makerName": "ONITSUKA TIGER",
+            "colorName": "ブラック × ホワイト",
+            "sizeName": "23cm"
+          },
+          {
+            "itemName": "SERRANO / セラーノ",
+            "sellingPrice": "8800",
+            "makerName": "ONITSUKA TIGER",
+            "colorName": "ブラック × ホワイト",
+            "sizeName": "24cm"
+          }
+      ]
+      
     },
     {
       "id": "item00002",
