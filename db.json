@@ -8,27 +8,39 @@
       "sku": [
         {
         "colorName": "ブラック × ホワイト",
-        "sizeName": "23cm"
+        "colorCode": "BW",
+        "sizeName": "23cm",
+        "sizeCode": "23"
         },
         {
         "colorName": "ブラック × ホワイト",
-        "sizeName": "24cm"
+        "colorCode": "BW",
+        "sizeName": "24cm",
+        "sizeCode": "24"
         },
         {
         "colorName": "ホワイト × ブルー",
-        "sizeName": "23cm"
+        "colorCode": "WB",
+        "sizeName": "23cm",
+        "sizeCode": "23"
         },
         {
         "colorName": "ホワイト × ブルー",
-        "sizeName": "24cm"
+        "colorCode": "WB",
+        "sizeName": "24cm",
+        "sizeCode": "24"
         },
         {
         "colorName": "ダークブルー",
-        "sizeName": "23cm"
+        "colorCode": "DB",
+        "sizeName": "23cm",
+        "sizeCode": "23"
         },
         {
         "colorName": "ダークブルー",
-        "sizeName": "24cm"
+        "colorCode": "DB",
+        "sizeName": "24cm",
+        "sizeCode": "24"
         }
       ] 
     },
@@ -40,19 +52,27 @@
       "sku": [
         {
         "colorName": "ライトグレー",
-        "sizeName": "23.5cm"
+        "colorCode": "RG",
+        "sizeName": "23.5cm",
+        "sizeCode": "23.5"
         },
         {
         "colorName": "ライトグレー",
-        "sizeName": "24.5cm"
+        "colorCode": "RG",
+        "sizeName": "24.5cm",
+        "sizeCode": "24.5"
         },
         {
         "colorName": "ベージュ",
-        "sizeName": "23cm"
+        "colorCode": "BG",
+        "sizeName": "23.5cm",
+        "sizeCode": "23.5"
         },
         {
         "colorName": "ベージュ",
-        "sizeName": "24.5cm"
+        "colorCode": "BG",
+        "sizeName": "24.5cm",
+        "sizeCode": "24.5"
         }
       ] 
     }
