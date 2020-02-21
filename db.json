@@ -1,1 +1,27 @@
-
+{
+  "items": [
+    {
+      "id": "item00001",
+      "itemName": "SERRANO / セラーノ",
+      "sellingPrice": "8800",
+      "makerName": "ONITSUKA TIGER",
+      "colorName": "ブラック × ホワイト",
+      "sizeName": "23cm"
+    },
+    {
+      "id": "item00001",
+      "itemName": "SERRANO / セラーノ",
+      "sellingPrice": "8800",
+      "makerName": "ONITSUKA TIGER",
+      "colorName": "ブラック × ホワイト",
+      "sizeName": "24cm"
+    },
+    {
+      "id": "item00002",
+      "itemName": "ケーブル編みマフラー",
+      "sellingPrice": "3800",
+      "maxBuyLimit": "25",
+      "shippingFee": "100"
+    }
+  ]
+}
