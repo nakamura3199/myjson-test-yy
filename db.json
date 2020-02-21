@@ -2,30 +2,59 @@
   "items": [
     {
       "id": "item00001",
-      "detail": [
-          {
-            "itemName": "SERRANO / セラーノ",
-            "sellingPrice": "8800",
-            "makerName": "ONITSUKA TIGER",
-            "colorName": "ブラック × ホワイト",
-            "sizeName": "23cm"
-          },
-          {
-            "itemName": "SERRANO / セラーノ",
-            "sellingPrice": "8800",
-            "makerName": "ONITSUKA TIGER",
-            "colorName": "ブラック × ホワイト",
-            "sizeName": "24cm"
-          }
-      ]
-      
+      "itemName": "SERRANO / セラーノ",
+      "regularPrice": "8800",
+      "makerName": "ONITSUKA TIGER",
+      "sku": [
+        {
+        "colorName": "ブラック × ホワイト",
+        "sizeName": "23cm"
+        },
+        {
+        "colorName": "ブラック × ホワイト",
+        "sizeName": "24cm"
+        },
+        {
+        "colorName": "ホワイト × ブルー",
+        "sizeName": "23cm"
+        },
+        {
+        "colorName": "ホワイト × ブルー",
+        "sizeName": "24cm"
+        },
+        {
+        "colorName": "ダークブルー",
+        "sizeName": "23cm"
+        },
+        {
+        "colorName": "ダークブルー",
+        "sizeName": "24cm"
+        }
+      ] 
     },
     {
       "id": "item00002",
-      "itemName": "ケーブル編みマフラー",
-      "sellingPrice": "3800",
-      "maxBuyLimit": "25",
-      "shippingFee": "100"
+      "itemName": "CM996 スニーカー / 20SS",
+      "regularPrice": "15180",
+      "makerName": "ONew Balance",
+      "sku": [
+        {
+        "colorName": "ライトグレー",
+        "sizeName": "23.5cm"
+        },
+        {
+        "colorName": "ライトグレー",
+        "sizeName": "24.5cm"
+        },
+        {
+        "colorName": "ベージュ",
+        "sizeName": "23cm"
+        },
+        {
+        "colorName": "ベージュ",
+        "sizeName": "24.5cm"
+        }
+      ] 
     }
   ]
 }
