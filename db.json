@@ -48,7 +48,7 @@
       "id": "item00002",
       "itemName": "CM996 スニーカー / 20SS",
       "regularPrice": "15180",
-      "makerName": "ONew Balance",
+      "makerName": "New Balance",
       "sku": [
         {
         "colorName": "ライトグレー",
@@ -73,6 +73,38 @@
         "colorCode": "BG",
         "sizeName": "24.5cm",
         "sizeCode": "24.5"
+        }
+      ] 
+    },
+    {
+      "id": "item00003",
+      "itemName": "マウンテンパーカー",
+      "regularPrice": "7590",
+      "makerName": "URBAN RESEARCH Sonny Label",
+      "sku": [
+        {
+        "colorName": "ネイビー",
+        "colorCode": "NB",
+        "sizeName": "S",
+        "sizeCode": "S"
+        },
+        {
+        "colorName": "ネイビー",
+        "colorCode": "NB",
+        "sizeName": "M",
+        "sizeCode": "M"
+        },
+        {
+        "colorName": "ネイビー",
+        "colorCode": "NB",
+        "sizeName": "L",
+        "sizeCode": "L"
+        },
+        {
+        "colorName": "ブラック",
+        "colorCode": "BK",
+        "sizeName": "S",
+        "sizeCode": "S"
         }
       ] 
     }
