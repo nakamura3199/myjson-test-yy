@@ -42,7 +42,7 @@
         "sizeName": "24cm",
         "sizeCode": "24"
         }
-      ],
+      ]
     },
     {
       "id": "item00002",
@@ -74,7 +74,7 @@
         "sizeName": "24.5cm",
         "sizeCode": "24.5"
         }
-      ],
+      ]
     },
     {
       "id": "item00003",
@@ -118,7 +118,7 @@
         "sizeName": "L",
         "sizeCode": "L"
         }
-      ], 
-    },
-  ],
+      ]
+    }
+  ]
 }
