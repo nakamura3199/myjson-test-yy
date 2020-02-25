@@ -75,6 +75,50 @@
         "sizeCode": "24.5"
         }
       ] 
+    },
+    {
+      "id": "item00003",
+      "itemName": "マウンテンパーカー",
+      "regularPrice": "7590",
+      "makerName": "URBAN RESEARCH Sonny Label",
+      "sku": [
+        {
+        "colorName": "ネイビー",
+        "colorCode": "NB",
+        "sizeName": "S",
+        "sizeCode": "S"
+        },
+        {
+        "colorName": "ネイビー",
+        "colorCode": "NB",
+        "sizeName": "M",
+        "sizeCode": "M"
+        },
+        {
+        "colorName": "ネイビー",
+        "colorCode": "NB",
+        "sizeName": "L",
+        "sizeCode": "L"
+        },
+        {
+        "colorName": "ブラック",
+        "colorCode": "BK",
+        "sizeName": "S",
+        "sizeCode": "S"
+        },
+        {
+        "colorName": "ブラック",
+        "colorCode": "BK",
+        "sizeName": "M",
+        "sizeCode": "M"
+        },
+        {
+        "colorName": "ブラック",
+        "colorCode": "BK",
+        "sizeName": "L",
+        "sizeCode": "L"
+        }
+      ] 
     }
   ]
 }
