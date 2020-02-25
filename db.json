@@ -7,36 +7,42 @@
       "makerName": "ONITSUKA TIGER",
       "sku": [
         {
+        "sku": "00001001",
         "colorName": "ブラック × ホワイト",
         "colorCode": "BW",
         "sizeName": "23cm",
         "sizeCode": "23"
         },
         {
+        "sku": "00001002",
         "colorName": "ブラック × ホワイト",
         "colorCode": "BW",
         "sizeName": "24cm",
         "sizeCode": "24"
         },
         {
+        "sku": "00001003",
         "colorName": "ホワイト × ブルー",
         "colorCode": "WB",
         "sizeName": "23cm",
         "sizeCode": "23"
         },
         {
+        "sku": "00001004",
         "colorName": "ホワイト × ブルー",
         "colorCode": "WB",
         "sizeName": "24cm",
         "sizeCode": "24"
         },
         {
+        "sku": "00001005",
         "colorName": "ダークブルー",
         "colorCode": "DB",
         "sizeName": "23cm",
         "sizeCode": "23"
         },
         {
+        "sku": "00001006",
         "colorName": "ダークブルー",
         "colorCode": "DB",
         "sizeName": "24cm",
@@ -51,24 +57,28 @@
       "makerName": "New Balance",
       "sku": [
         {
+        "sku": "00002001",
         "colorName": "ライトグレー",
         "colorCode": "RG",
         "sizeName": "23.5cm",
         "sizeCode": "23.5"
         },
         {
+        "sku": "00002002",
         "colorName": "ライトグレー",
         "colorCode": "RG",
         "sizeName": "24.5cm",
         "sizeCode": "24.5"
         },
         {
+        "sku": "00002003",
         "colorName": "ベージュ",
         "colorCode": "BG",
         "sizeName": "23.5cm",
         "sizeCode": "23.5"
         },
         {
+        "sku": "00002004",
         "colorName": "ベージュ",
         "colorCode": "BG",
         "sizeName": "24.5cm",
@@ -83,30 +93,92 @@
       "makerName": "URBAN RESEARCH Sonny Label",
       "sku": [
         {
+        "sku": "00003001",
         "colorName": "ネイビー",
         "colorCode": "NB",
         "sizeName": "S",
         "sizeCode": "S"
         },
         {
+        "sku": "00003002",
         "colorName": "ネイビー",
         "colorCode": "NB",
         "sizeName": "M",
         "sizeCode": "M"
         },
         {
+        "sku": "00003003",
         "colorName": "ネイビー",
         "colorCode": "NB",
         "sizeName": "L",
         "sizeCode": "L"
         },
         {
+        "sku": "00003004",
         "colorName": "ブラック",
         "colorCode": "BK",
         "sizeName": "S",
         "sizeCode": "S"
         }
       ] 
+    }
+  ],
+  "stock": [
+    {
+      "id": "00001001",
+      "quantity": "100"
+    },
+    {
+      "id": "00001002",
+      "quantity": "0"
+    },
+    {
+      "id": "00001003",
+      "quantity": "100"
+    },
+    {
+      "id": "00001004",
+      "quantity": "0"
+    },
+    {
+      "id": "00001005",
+      "quantity": "100"
+    },
+    {
+      "id": "00001006",
+      "quantity": "0"
+    },
+    {
+      "id": "00002001",
+      "quantity": "100"
+    },
+    {
+      "id": "00002002",
+      "quantity": "0"
+    },
+    {
+      "id": "00002003",
+      "quantity": "100"
+    },
+    {
+      "id": "00002004",
+      "quantity": "0"
+    },
+    {
+      "id": "00003001",
+      "quantity": "100"
+    },
+    {
+      "id": "00003002",
+      "quantity": "0"
+    },
+    {
+      "id": "00003003",
+      "quantity": "100"
+    },
+    {
+      "id": "00003004",
+      "quantity": "0"
     }
   ]
 }
