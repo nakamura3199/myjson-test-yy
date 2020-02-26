@@ -234,25 +234,11 @@
         },
         {
           "sku": "00005002",
-          "colorName": "ブラック",
-          "colorCode": "black",
-          "sizeName": "M",
-          "sizeCode": "M"
-        },
-        {
-          "sku": "00005003",
           "colorName": "オフホワイト",
           "colorCode": "off white",
           "sizeName": "S",
           "sizeCode": "S"
         },
-        {
-          "sku": "00005004",
-          "colorName": "オフホワイト",
-          "colorCode": "off white",
-          "sizeName": "M",
-          "sizeCode": "M"
-        }
       ] 
     },
     {
@@ -314,6 +300,99 @@
           "colorCode": "dark blue",
           "sizeName": "23cm",
           "sizeCode": "23"
+        }
+      ] 
+    },
+    {
+      "id": "item00008",
+      "itemName": "ストレッチショートブーツ",
+      "sellingPrice": "10450",
+      "makerName": "mystic",
+      "categoryCode": "",
+      "categoryName": "シューズ",
+      "sku": [
+        {
+          "sku": "00008001",
+          "colorName": "ブラック",
+          "colorCode": "black",
+          "sizeName": "23cm",
+        "siz  eCode": "23"
+        },
+        {
+          "sku": "00008002",
+          "colorName": "アイボリー",
+          "colorCode": "ivory",
+          "sizeName": "23cm",
+          "sizeCode": "23"
+        },
+        {
+          "sku": "00008003",
+          "colorName": "ベージュ",
+          "colorCode": "beige",
+          "sizeName": "23cm",
+          "sizeCode": "23"
+        }
+      ] 
+    },
+    {
+      "id": "item00009",
+      "itemName": "BY ムートングローブ 19FW ο",
+      "sellingPrice": "7040",
+      "makerName": "BEAUTY&YOUTH UNITED ARROWS",
+      "categoryCode": "",
+      "categoryName": "ファッション雑貨",
+      "sku": [
+        {
+          "sku": "00009001",
+          "colorName": "ベージュ",
+          "colorCode": "beige",
+          "sizeName": "ONE",
+          "sizeCode": "ONE"
+        },
+          {
+          "sku": "00009002",
+          "colorName": "グレー",
+          "colorCode": "grey",
+          "sizeName": "ONE",
+          "sizeCode": "ONE"
+        },
+        {
+          "sku": "00009003",
+          "colorName": "ピンク",
+          "colorCode": "pink",
+          "sizeName": "ONE",
+          "sizeCode": "ONE"
+        }
+      ] 
+    },
+    {
+      "id": "item00010",
+      "itemName": "トラックパンツ [SST TRACK PANTS]",
+      "sellingPrice": "8789",
+      "makerName": "adidas",
+      "categoryCode": "",
+      "categoryName": "パンツ",
+      "sku": [
+        {
+          "sku": "00010001",
+          "colorName": "ブラック",
+          "colorCode": "black",
+          "sizeName": "S",
+          "sizeCode": "S"
+        },
+        {
+          "sku": "00010002",
+          "colorName": "ブルー",
+          "colorCode": "blue",
+          "sizeName": "S",
+          "sizeCode": "S"
+        },
+        {
+          "sku": "00010003",
+          "colorName": "チェリーレッド",
+          "colorCode": "cherry red",
+          "sizeName": "S",
+          "sizeCode": "S"
         }
       ] 
     }
