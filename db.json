@@ -399,26 +399,6 @@
       "id": "00001006",
       "itemCode": "item00001",
       "quantity": 100
-    },
-    {
-      "id": "00002001",
-      "itemCode": "item00002",
-      "quantity": 100
-    },
-    {
-      "id": "00002002",
-      "itemCode": "item00002",
-      "quantity": 0
-    },
-    {
-      "id": "00002003",
-      "itemCode": "item00002",
-      "quantity": 0
-    },
-    {
-      "id": "00002004",
-      "itemCode": "item00002",
-      "quantity": 100
     }
   ]
 }
