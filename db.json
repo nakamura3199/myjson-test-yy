@@ -189,17 +189,59 @@
         },
         {
           "sku": "00003002",
+          "colorName": "ベージュ",
+          "colorCode": "beige",
+          "sizeName": "M",
+          "sizeCode": "M"
+        },
+        {
+          "sku": "00003003",
+          "colorName": "ベージュ",
+          "colorCode": "beige",
+          "sizeName": "L",
+          "sizeCode": "L"
+        },
+        {
+          "sku": "00003004",
           "colorName": "オフホワイト",
           "colorCode": "off white",
           "sizeName": "S",
           "sizeCode": "S"
         },
         {
-          "sku": "00003003",
+          "sku": "00003005",
+          "colorName": "オフホワイト",
+          "colorCode": "off white",
+          "sizeName": "M",
+          "sizeCode": "M"
+        },
+        {
+          "sku": "00003006",
+          "colorName": "オフホワイト",
+          "colorCode": "off white",
+          "sizeName": "L",
+          "sizeCode": "L"
+        },
+        {
+          "sku": "00003007",
           "colorName": "ブラック",
           "colorCode": "black",
           "sizeName": "S",
           "sizeCode": "S"
+        },
+        {
+          "sku": "00003008",
+          "colorName": "ブラック",
+          "colorCode": "black",
+          "sizeName": "M",
+          "sizeCode": "M"
+        },
+        {
+          "sku": "00003009",
+          "colorName": "ブラック",
+          "colorCode": "black",
+          "sizeName": "L",
+          "sizeCode": "L"
         }
       ] 
     },
@@ -296,20 +338,6 @@
           "colorCode": "black white",
           "sizeName": "23cm",
           "sizeCode": "23"
-        },
-        {
-          "sku": "00007002",
-          "colorName": "ホワイト × ブルー",
-          "colorCode": "white blue",
-          "sizeName": "23cm",
-        "sizeCode": "23"
-        },
-        {
-          "sku": "00007003",
-          "colorName": "ダークブルー",
-          "colorCode": "dark blue",
-          "sizeName": "23cm",
-          "sizeCode": "23"
         }
       ] 
     },
@@ -327,20 +355,6 @@
           "colorCode": "black",
           "sizeName": "23cm",
         "siz  eCode": "23"
-        },
-        {
-          "sku": "00008002",
-          "colorName": "アイボリー",
-          "colorCode": "ivory",
-          "sizeName": "23cm",
-          "sizeCode": "23"
-        },
-        {
-          "sku": "00008003",
-          "colorName": "ベージュ",
-          "colorCode": "beige",
-          "sizeName": "23cm",
-          "sizeCode": "23"
         }
       ] 
     },
@@ -358,20 +372,6 @@
           "colorCode": "beige",
           "sizeName": "ONE",
           "sizeCode": "ONE"
-        },
-          {
-          "sku": "00009002",
-          "colorName": "グレー",
-          "colorCode": "grey",
-          "sizeName": "ONE",
-          "sizeCode": "ONE"
-        },
-        {
-          "sku": "00009003",
-          "colorName": "ピンク",
-          "colorCode": "pink",
-          "sizeName": "ONE",
-          "sizeCode": "ONE"
         }
       ] 
     },
@@ -387,20 +387,6 @@
           "sku": "00010001",
           "colorName": "ブラック",
           "colorCode": "black",
-          "sizeName": "S",
-          "sizeCode": "S"
-        },
-        {
-          "sku": "00010002",
-          "colorName": "ブルー",
-          "colorCode": "blue",
-          "sizeName": "S",
-          "sizeCode": "S"
-        },
-        {
-          "sku": "00010003",
-          "colorName": "チェリーレッド",
-          "colorCode": "cherry red",
           "sizeName": "S",
           "sizeCode": "S"
         }
