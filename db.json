@@ -307,20 +307,6 @@
           "colorCode": "light beige",
           "sizeName": "S,Mサイズ相当",
           "sizeCode": "S,M"
-        },
-        {
-          "sku": "00006002",
-          "colorName": "オフホワイト",
-          "colorCode": "off white",
-          "sizeName": "S,Mサイズ相当",
-          "sizeCode": "S,M"
-        },
-        {
-          "sku": "00006003",
-          "colorName": "ブラック",
-          "colorCode": "black",
-          "sizeName": "S,Mサイズ相当",
-          "sizeCode": "S,M"
         }
       ] 
     },
