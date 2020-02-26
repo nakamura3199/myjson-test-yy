@@ -341,37 +341,6 @@
           "sizeCode": "ONE"
         }
       ] 
-    },
-    {
-      "id": "item00010",
-      "itemName": "トラックパンツ [SST TRACK PANTS]",
-      "sellingPrice": "8789",
-      "maxBuyLimit": "70",
-      "shippingFee": "200",
-      "makerName": "adidas",
-      "categoryCode": "",
-      "categoryName": "パンツ",
-      "sku": [
-        {
-          "sku": "00010001",
-          "colorName": "ブラック",
-          "colorCode": "black",
-          "sizeName": "S",
-          "sizeCode": "S"
-        }
-      ] 
     }
-  ],
-  "order":[
-   {
-    "id": "order00001",
-    "status": "OK",
-    "message": "Order OK"
-   },
-   {
-    "id": "order00002",
-    "status": "ERROR",
-    "message": "Order Error"
-   }
   ]
 }
