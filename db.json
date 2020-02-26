@@ -225,27 +225,6 @@
           "colorCode": "off white",
           "sizeName": "L",
           "sizeCode": "L"
-        },
-        {
-          "sku": "00003007",
-          "colorName": "ブラック",
-          "colorCode": "black",
-          "sizeName": "S",
-          "sizeCode": "S"
-        },
-        {
-          "sku": "00003008",
-          "colorName": "ブラック",
-          "colorCode": "black",
-          "sizeName": "M",
-          "sizeCode": "M"
-        },
-        {
-          "sku": "00003009",
-          "colorName": "ブラック",
-          "colorCode": "black",
-          "sizeName": "L",
-          "sizeCode": "L"
         }
       ] 
     },
@@ -263,13 +242,6 @@
           "sku": "00004001",
           "colorName": "ブラック",
           "colorCode": "black",
-          "sizeName": "S",
-          "sizeCode": "S"
-        },
-        {
-          "sku": "00004002",
-          "colorName": "グレー",
-          "colorCode": "grey",
           "sizeName": "S",
           "sizeCode": "S"
         }
