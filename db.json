@@ -1,4 +1,84 @@
 {
+  "login":[
+   {
+    "id": "ok@example.com",
+    "status": "OK",
+    "message": "login success",
+    "customerId": "123456789"
+   },
+   {
+    "id": "error@example.com",
+    "status": "ERROR",
+    "message": "Incorrect username or password entered",
+    "customerId": null
+   }
+  ],
+  "password": [
+    {
+      "id": "optage_api_123456789",
+      "email": "ok@example.com",
+      "status": "OK",
+      "message": "The password has been reset successfully"
+    },
+    {
+      "id": "Admin",
+      "email": "Admin@example.com",
+      "status": "ERROR",
+      "message": "Incorrect username or password entered"
+    }
+  ],
+  "users": [
+    {
+      "id": "optage_api_123456789",
+      "loginNgFlg": "0",
+      "firstName": "tarou",
+      "lastName": "tanaka",
+      "firstNameKana": "タロウ",
+      "lastNameKana": "タナカ",
+      "nickname": "tarou",
+      "zip": "0000000",
+      "address1": "大阪市北区１丁目",
+      "address2": "１番１号",
+      "address3": "111ビルディング",
+      "address4": "111号室",
+      "tel": "0312345678",
+      "mobileTel": "08012345678",
+      "fax": "0312345678",
+      "birthday": "19000101",
+      "sex": "0",
+      "shippingAddressNo": "1",
+      "email": "ok@example.com",
+      "mobileEmail": "okMobile@example.com",
+      "occupation": "会社員",
+      "optin": "0",
+      "note": "メモ"
+    },
+    {
+      "id": "Admin",
+      "loginNgFlg": "1",
+      "firstName": "Admin",
+      "lastName": "Admin",
+      "firstNameKana": "アドミン",
+      "lastNameKana": "アドミン",
+      "nickname": "Admin",
+      "zip": "0000000",
+      "address1": "東京都北区１丁目",
+      "address2": "１番１号",
+      "address3": "111ビルディング",
+      "address4": "111号室",
+      "tel": "0312345678",
+      "mobileTel": "08012345678",
+      "fax": "0312345678",
+      "birthday": "19000101",
+      "sex": "1",
+      "shippingAddressNo": "1",
+      "email": "Admin@example.com",
+      "mobileEmail": "AdminMobile@example.com",
+      "occupation": "会社員",
+      "optin": "1",
+      "note": "メモ"
+    }
+  ],
   "items": [
     {
       "id": "item00001",
@@ -109,59 +189,17 @@
         },
         {
           "sku": "00003002",
-          "colorName": "ベージュ",
-          "colorCode": "beige",
-          "sizeName": "M",
-          "sizeCode": "M"
+          "colorName": "オフホワイト",
+          "colorCode": "off white",
+          "sizeName": "S",
+          "sizeCode": "S"
         },
         {
           "sku": "00003003",
-          "colorName": "ベージュ",
-          "colorCode": "beige",
-          "sizeName": "L",
-          "sizeCode": "L"
-        },
-        {
-          "sku": "00003004",
-          "colorName": "オフホワイト",
-          "colorCode": "off white",
-          "sizeName": "S",
-          "sizeCode": "S"
-        },
-        {
-          "sku": "00003005",
-          "colorName": "オフホワイト",
-          "colorCode": "off white",
-          "sizeName": "M",
-          "sizeCode": "M"
-        },
-        {
-          "sku": "00003006",
-          "colorName": "オフホワイト",
-          "colorCode": "off white",
-          "sizeName": "L",
-          "sizeCode": "L"
-        },
-        {
-          "sku": "00003007",
           "colorName": "ブラック",
           "colorCode": "black",
           "sizeName": "S",
           "sizeCode": "S"
-        },
-        {
-          "sku": "00003008",
-          "colorName": "ブラック",
-          "colorCode": "black",
-          "sizeName": "M",
-          "sizeCode": "M"
-        },
-        {
-          "sku": "00003009",
-          "colorName": "ブラック",
-          "colorCode": "black",
-          "sizeName": "L",
-          "sizeCode": "L"
         }
       ] 
     },
@@ -369,36 +407,16 @@
       ] 
     }
   ],
-  "stock": [
-    {
-      "id": "00001001",
-      "itemCode": "item00001",
-      "quantity": 100
-    },
-    {
-      "id": "00001002",
-      "itemCode": "item00001",
-      "quantity": 5
-    },
-    {
-      "id": "00001003",
-      "itemCode": "item00001",
-      "quantity": 100
-    },
-    {
-      "id": "00001004",
-      "itemCode": "item00001",
-      "quantity": 0
-    },
-    {
-      "id": "00001005",
-      "itemCode": "item00001",
-      "quantity": 0
-    },
-    {
-      "id": "00001006",
-      "itemCode": "item00001",
-      "quantity": 100
-    }
+  "order":[
+   {
+    "id": "order00001",
+    "status": "OK",
+    "message": "Order OK"
+   },
+   {
+    "id": "order00002",
+    "status": "ERROR",
+    "message": "Order Error"
+   }
   ]
 }
