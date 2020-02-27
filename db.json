@@ -153,20 +153,6 @@
         },
         {
           "sku": "00002002",
-          "colorName": "ベージュ",
-          "colorCode": "beige",
-          "sizeName": "ONE",
-          "sizeCode": "ONE"
-        },
-        {
-          "sku": "00002003",
-          "colorName": "ブラック",
-          "colorCode": "black",
-          "sizeName": "ONE",
-          "sizeCode": "ONE"
-        },
-        {
-          "sku": "00002004",
           "colorName": "ブラック",
           "colorCode": "black",
           "sizeName": "ONE",
@@ -244,6 +230,41 @@
           "colorCode": "black",
           "sizeName": "S",
           "sizeCode": "S"
+        },
+        {
+          "sku": "00004002",
+          "colorName": "ブラック",
+          "colorCode": "black",
+          "sizeName": "M",
+          "sizeCode": "M"
+        },
+        {
+          "sku": "00004003",
+          "colorName": "ブラック",
+          "colorCode": "black",
+          "sizeName": "L",
+          "sizeCode": "L"
+        },
+        {
+          "sku": "00004004",
+          "colorName": "グレー",
+          "colorCode": "grey",
+          "sizeName": "S",
+          "sizeCode": "S"
+        },
+        {
+          "sku": "00004005",
+          "colorName": "グレー",
+          "colorCode": "grey",
+          "sizeName": "M",
+          "sizeCode": "M"
+        },
+        {
+          "sku": "00004006",
+          "colorName": "グレー",
+          "colorCode": "grey",
+          "sizeName": "L",
+          "sizeCode": "L"
         }
       ] 
     },
